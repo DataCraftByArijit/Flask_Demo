@@ -46,3 +46,4 @@ def prediction():
 
     return {"loan_approval_status": pred}
 
+#flask --app Loan_app run 
