@@ -34,3 +34,5 @@ def prediction():
 
     # 5. Return JSON message 
     return {"prediction": pred, "status": status}
+
+#flask --app Loan_app run
